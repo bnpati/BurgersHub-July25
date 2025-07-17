@@ -3,7 +3,7 @@
 **Version:** July 2025 (Prototype)
 
 **🔗 Project Preview Link:** 
-[BurgersHub - Live Demo](https://your-domain.com) *(Coming Soon)*
+[BurgersHub - Live Demo]([https://your-domain.com](https://resonant-meerkat-f424e4.netlify.app)) *(Now Live 🎉)*
 
 ## ✨ About This Version ✨
 
